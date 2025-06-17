@@ -118,3 +118,9 @@
 [submodule "pack/buildgroundwork/start/vim-projectionist"]
 	path = pack/buildgroundwork/start/vim-projectionist
 	url = https://github.com/tpope/vim-projectionist.git
+[submodule "pack/buildgroundwork/start/vim-ai"]
+	path = pack/buildgroundwork/start/vim-ai
+	url = https://github.com/madox2/vim-ai.git
+[submodule "pack/buildgroundwork/start/vim-ai-provider-google"]
+	path = pack/buildgroundwork/start/vim-ai-provider-google
+	url = https://github.com/madox2/vim-ai-provider-google.git
