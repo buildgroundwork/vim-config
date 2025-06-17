@@ -1,0 +1,55 @@
+snippet clog
+console.log('========> $1'$0);
+endsnippet
+
+snippet desc
+describe('$1', () => {
+  $0
+});
+endsnippet
+
+snippet cont
+context('$1', () => {
+  $0
+});
+endsnippet
+
+snippet bef
+beforeEach(() => {
+  $0
+});
+endsnippet
+
+snippet abef
+beforeEach(async () => {
+  $0
+});
+endsnippet
+
+snippet it
+it('$1', () => {
+  $0
+});
+endsnippet
+
+snippet ait
+it('$1', async () => {
+  $0
+});
+endsnippet
+
+snippet imp
+import { $1 } from '$2';$0
+endsnippet
+
+snippet impo
+import $1 from '$2';$0
+endsnippet
+
+snippet exp
+export $0
+endsnippet
+
+snippet expo
+export { $1 } from '$2';$0
+endsnippet
