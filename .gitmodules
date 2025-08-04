@@ -124,3 +124,6 @@
 [submodule "pack/buildgroundwork/start/vim-ai-provider-google"]
 	path = pack/buildgroundwork/start/vim-ai-provider-google
 	url = https://github.com/madox2/vim-ai-provider-google.git
+[submodule "pack/buildgroundwork/start/sorbet.vim"]
+	path = pack/buildgroundwork/start/sorbet.vim
+	url = https://github.com/zackhsi/sorbet.vim.git
